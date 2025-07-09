@@ -1,5 +1,7 @@
 # DACERI-local
 
+This repository has been merged into the official DACERI repository and is now considered obsolete. Here is the link to the official DACERI project repository: https://github.com/JeffersonLab/daceri 
+
 Use the Logitech F310 Game Controller connected to the local RaspPi 4B and control the JLab DACERI robot with the [REV Control Hub](https://www.revrobotics.com/rev-31-1595/).
 
 ## External Modules
